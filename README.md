@@ -9,5 +9,8 @@ Insights gained from the dashboard helped build targeted recommendations — for
 This repository includes the SQL scripts used, the Excel scoring file with flag logic, the Power BI (.pbix) file, and dashboard screenshots. It reflects an end-to-end data analysis project, moving from raw data all the way to visual insights and recommendations.
 
 BI DASHBOARD:
+
+
+
 <img width="764" height="724" alt="Screenshot 2025-07-30 013633" src="https://github.com/user-attachments/assets/0e3e7907-c6b9-44d7-ab97-93c43cb92cf2" />
 
